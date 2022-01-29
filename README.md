@@ -1,2 +1,12 @@
-# website-pessoal
-Minha página pessoal construída em HTML5 e CSS3
+# Website Pessoal :desktop_computer:
+
+Este é um repositório criado para alocar minha página pessoal
+
+### Tecnologias utilizadas
+
+- HTML5 <>
+- CSS3 #
+
+#### IDE
+
+- Visual Studio Code (VSCode)
